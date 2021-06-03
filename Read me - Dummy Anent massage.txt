@@ -1,0 +1,3 @@
+Dummy Agent REQUEST the following ‘’Massage Contain’’:
+
+{"source":"Conveyor2","dest":"Conveyor12","midPoints":[]}
